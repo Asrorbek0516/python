@@ -1,7 +1,3 @@
-# print("Hello, World!")
-# print("Alimqulov")
-
-
 a = int(input("a= "))
 b = int(input("b= "))
 
